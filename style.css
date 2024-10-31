@@ -76,20 +76,20 @@ body.show {
 }
 
 .restart {
-  background-image: url(/icons/home.svg);
+  background-image: url(home.svg);
 }
 .next {
-  background-image: url(/icons/nextSlide.svg);
+  background-image: url(nextSlide.svg);
 }
 
 .previous {
-  background-image: url(/icons/previousSlide.svg);
+  background-image: url(previousSlide.svg);
 }
 
 .nnext {
-  background-image: url(/icons/nextChapter.svg);
+  background-image: url(nextChapter.svg);
 }
 
 .pprevious {
-  background-image: url(/icons/previousChapter.svg);
+  background-image: url(previousChapter.svg);
 }
